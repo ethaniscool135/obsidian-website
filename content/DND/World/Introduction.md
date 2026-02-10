@@ -1,0 +1,3 @@
+*In a post-war world where history is only established by the elite royal members of Karrnath, all life has been dominated by a strict set of rules and beliefs that benefit few and disregard most. In the distance, an evil approaches with intent to regenerate the torment Karrnath had suffered during the Great War. In this world that seems to go against only you, what will you do for it? Will you fight against injustice, or fall at its feet?
+
+**Welcome to the Long Silence.**
