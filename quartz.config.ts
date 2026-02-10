@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "github.com/ethaniscool135/obsidian-website.git",
+    baseUrl: "ethaniscool135.github.io/obsidian-website",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
