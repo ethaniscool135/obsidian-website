@@ -1,4 +1,5 @@
-Welcome to the Long Silence wiki page!
-
-
+---
+title: Home
+---
+# Welcome to the wiki for the Long Silence campaign!
 
