@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "ethaniscool135.github.io/obsidian-website",
     ignorePatterns: ["private", "templates", ".obsidian", "C:\Users\ethan\Downloads\DND\DND\DND_Templates"],
     defaultDateType: "modified",
     theme: {
