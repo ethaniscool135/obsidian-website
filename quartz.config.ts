@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "ethaniscool135.github.io/obsidian-website",
-    ignorePatterns: ["private", "templates", ".obsidian", "DND\DND_Templates"],
+    ignorePatterns: ["private", "templates", ".obsidian", "**/DND_Templates"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
