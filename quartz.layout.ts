@@ -65,9 +65,9 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.DesktopOnly(Component.Explorer({
-      folderDfeaultState: "open",
+      folderDefaultState: "open",
       useSavedState: true,
-    })),,
+    })),
   ],
   right: [],
 }
