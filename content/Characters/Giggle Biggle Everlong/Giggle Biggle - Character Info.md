@@ -1,20 +1,16 @@
 ---
 publish: true
 created: 2026-02-12T14:00:11.998-08:00
-modified: 2026-02-14T21:55:06.923-08:00
+modified: 2026-02-14T22:04:50.748-08:00
 cssclasses: ""
 ---
 
 
 ## Basic Character Info
 Full Name: Giggle Biggle Everlong
-
 Alignment:
-
 Aliases: Gale
-
 Background: 
-
 Subclass: Oath of Devotion
 
 ## Physical Description
