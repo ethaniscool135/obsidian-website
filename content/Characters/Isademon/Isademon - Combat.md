@@ -1,3 +1,9 @@
+---
+publish: true
+created: 2026-02-13T22:01:21.757-08:00
+modified: 2026-02-14T21:55:23.026-08:00
+cssclasses: ""
+---
 
 ## General Combat
 

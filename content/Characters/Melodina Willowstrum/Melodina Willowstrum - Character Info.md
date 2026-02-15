@@ -1,3 +1,10 @@
+---
+publish: true
+created: 2026-02-13T22:03:39.310-08:00
+modified: 2026-02-14T21:55:34.281-08:00
+cssclasses: ""
+---
+
 ## Basic Character Info
 Full Name:
 Alignment:

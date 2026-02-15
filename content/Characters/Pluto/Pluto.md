@@ -1,3 +1,10 @@
+---
+publish: true
+created: 2026-02-13T22:07:59.076-08:00
+modified: 2026-02-14T21:55:49.026-08:00
+cssclasses: ""
+---
+
 # Quick Info
 World: Khorvaire
 Level: 1
@@ -9,15 +16,16 @@ Player: Justin Lu
 Party: Unnamed
 
 # Character Info
-
+[[Characters/Pluto/Pluto - Character Info]]
 
 # Inventory
-
+[[Characters/Pluto/Pluto - Inventory]]
 
 # Features and Proficiencies
-
+[[Characters/Pluto/Pluto - Features and Proficiencies]]
 
 # Stats
-
+[[Characters/Pluto/Pluto - Stats]]
 
 # Combat
+[[Characters/Pluto/Pluto - Combat]]

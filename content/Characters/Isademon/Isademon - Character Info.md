@@ -1,7 +1,14 @@
+---
+publish: true
+created: 2026-02-13T22:00:20.190-08:00
+modified: 2026-02-14T21:55:21.012-08:00
+cssclasses: ""
+---
+
 ## Basic Character Info
-Full Name:
+Full Name: Isademon
 Alignment:
-Aliases:
+Aliases: 
 Background:
 Subclass:
 

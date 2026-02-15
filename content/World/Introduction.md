@@ -1,3 +1,10 @@
-*In a post-war world where history is only established by the elite royal members of Karrnath, all life has been dominated by a strict set of rules and beliefs that benefit few and disregard most. In the distance, an evil approaches with intent to regenerate the torment Karrnath had suffered during the Great War. In this world that seems to go against only you, what will you do for it? Will you fight against injustice, or fall at its feet?
+---
+publish: true
+created: 2026-02-04T21:27:48.447-08:00
+modified: 2026-02-14T21:56:34.615-08:00
+cssclasses: ""
+---
 
-**Welcome to the Long Silence.**
+In a postbellum world where history is only established by the elite royal members of Karrnath, a strict set of rules that benefit few and disregard most dominate all forms of life. Small townsfolk are taught to jeer at Tieflings, raise livestock prices for Dragonborn, and magic cast by sorcerers is heavily monitored. In the distance, an evil approaches with intent to regenerate the torment Karrnath had suffered during the Great War. In this world that seems to go against only you, what will you do about it? Will you fight against injustice, or fall at its feet?
+
+Welcome to the Long Silence.
