@@ -38,7 +38,10 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      folderDefaultState: "open",
+      useSavedState: true,
+    })),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -61,7 +64,10 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.DesktopOnly(Component.Explorer()),,
+    Component.DesktopOnly(Component.Explorer({
+      folderDfeaultState: "open",
+      useSavedState: true,
+    })),,
   ],
   right: [],
 }
