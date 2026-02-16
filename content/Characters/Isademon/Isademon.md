@@ -1,7 +1,8 @@
 ---
 publish: true
+title: Isademon
 created: 2026-02-04T11:34:47.883-08:00
-modified: 2026-02-14T21:55:17.087-08:00
+modified: 2026-02-16T12:19:53.561-08:00
 cssclasses: ""
 ---
 

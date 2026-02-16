@@ -1,7 +1,8 @@
 ---
 publish: true
+title: Vestira
 created: 2026-02-04T11:34:09.942-08:00
-modified: 2026-02-14T21:56:05.292-08:00
+modified: 2026-02-16T12:20:15.081-08:00
 cssclasses: ""
 ---
 
