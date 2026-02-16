@@ -41,6 +41,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       folderDefaultState: "open",
       useSavedState: true,
+      sortFn: (a,b) => {
+        if (a.file && !b.file) return -1
+        if (!a.file && b.file) return 1
+        return a.displayName.localeCompare(b.displayName)
+      },
     })),
   ],
   right: [
@@ -67,6 +72,11 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       folderDefaultState: "open",
       useSavedState: true,
+      sortFn: (a,b) => {
+        if (a.file && !b.file) return -1
+        if (!a.file && b.file) return 1
+        return a.displayName.localeCompare(b.displayName)
+      },
     })),
   ],
   right: [],
